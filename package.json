@@ -1,0 +1,47 @@
+{
+  "name": "mdb-react-template",
+  "version": "4.2.0",
+  "description": "template for mdb-react-ui-kit",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.12.1",
+    "google-map-react": "^2.2.0",
+    "mdb-react-ui-kit": "^4.2.0",
+    "pigeon-maps": "^0.21.3",
+    "react": "^18.1.0",
+    "react-datetime-picker": "^4.0.1",
+    "react-dom": "^18.1.0",
+    "react-geolocated": "^4.0.3",
+    "react-images-uploading": "^3.1.7",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "5.0.1",
+    "react-simple-maps": "^3.0.0",
+    "react-webcam": "^7.0.1",
+    "reactjs-popup": "^2.0.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "template",
+    "react"
+  ],
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
